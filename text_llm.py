@@ -12,7 +12,7 @@ st.title("PDF Content Viewer with LLM")
 # LLM Authentication
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key="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",
+    api_key="API-KEY",
 )
 
 # File uploader
